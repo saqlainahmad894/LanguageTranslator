@@ -31,7 +31,7 @@ git clone https://github.com/saqlainahmad894/LanguageTranslator.git
 
 ## Demo
 
-For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo](https://venkateeshh.github.io/Js-Language-Translator/)
+For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo](https://saqlainahmad894.github.io/LanguageTranslator/)
 
 ## Feedback and Contributions
 
